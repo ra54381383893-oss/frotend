@@ -31,7 +31,7 @@ export default function Contas() {
         setdescricao1(novovalor)
     }
 
-    const[caixa,setcaixa] = useState (false)
+    const[caixa,setcaixa] = useState (true)
   
 
     function mudarcaixa (e){
